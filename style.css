@@ -1,18 +1,18 @@
 body {
     background-color: #0099FF;
     color: #003C6C;
-    font-family: "Bai Jamjuree", sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 700px;
-    margin: 0;
+  font-family: "Quicksand", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
 }
 
 button {
     background-color: #007BFF;
     color: #003C6C;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Quicksand", sans-serif;
 }
 
 .passo {
